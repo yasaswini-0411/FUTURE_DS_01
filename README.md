@@ -1,6 +1,6 @@
 Welcome!!!
-Author: Yasaswini priyanka Bugga 👩‍💻
-Email✉️:yasaswinipriyankabugga@gmail.com
+Author: Yasaswini priyanka Bugga 👩‍💻 |
+Email✉️:yasaswinipriyankabugga@gmail.com |
 LinkedIn: www.linkedin.com/in/yasaswini-priyanka-bugga-410a2937b
 # FUTURE_DS_01
 # 📊 Business Sales Dashboard (Power BI)
